@@ -1,3 +1,3 @@
 # BFO
-Bilibili Followers Observer
+Bilibili Followers Observer.
 The latest version: v0.1b
