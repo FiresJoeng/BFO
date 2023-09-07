@@ -1,7 +1,7 @@
 # Bilibili实时粉丝数监视器
 
 #### 介绍
-基于Python的B站粉丝实时监视软件，已用py2exe打包。源代码发布在：https://github.com/FiresJoeng/BFO
+基于Python的B站粉丝实时监视软件，已用Pyinstaller打包。源代码发布在：[@FiresJoeng BFO](https://github.com/FiresJoeng/BFO)
 
 #### 安装教程
 
@@ -16,4 +16,4 @@
 5. 确定
 
 #### 示例图片
-![这是一张使用截图](example.png)
+![这是一张使用说明的示例图片](example.png)
