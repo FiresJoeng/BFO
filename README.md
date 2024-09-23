@@ -18,5 +18,7 @@
 4. 勾选“从文件读取”，并将读取文件选定为BFO目录下的output.txt
 5. 确定
 
-#### 示例图片
-![这是一张使用说明的示例图片](example.png)
+#### 示例图片及应用场景
+![这是一张使用说明的示例图片](screenshots/example.png)
+![敖犬战蕾蝗](screenshots/Ao-VS-Lex.png)
+![YT一哥争霸](screenshots/PDP-VS-TSR.png)
