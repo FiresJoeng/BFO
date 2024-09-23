@@ -18,7 +18,11 @@
 4. 勾选“从文件读取”，并将读取文件选定为BFO目录下的output.txt
 5. 确定
 
-#### 示例图片及应用场景
+#### 示例图片
 ![这是一张使用说明的示例图片](screenshots/example.png)
+
+#### 应用场景
+[2019 B站一哥争夺战](https://www.bilibili.com/video/BV114411i7wS "敖犬战蕾蝗")
 ![敖犬战蕾蝗](screenshots/Ao-VS-Lex.png)
+[2018 类似的 YouTube一哥争夺战](https://en.wikipedia.org/wiki/PewDiePie_vs_T-Series "PewDiePie与T-Series之争")
 ![YT一哥争霸](screenshots/PDP-VS-TSR.png)
