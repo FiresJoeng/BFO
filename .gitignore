@@ -32,6 +32,7 @@ MANIFEST
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
 *.manifest
 *.spec
+*.tcl
 
 # Installer logs
 pip-log.txt
@@ -127,6 +128,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
-# FiresJoeng Custom
-*.tcl
