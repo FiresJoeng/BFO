@@ -1,4 +1,4 @@
-# ![](BFO.ico) BFO
+# <img src="BFO.ico" alt="BFO" width="32" height="32"> BFO
 Bilibili实时粉丝数监视器
 
 ### 介绍
