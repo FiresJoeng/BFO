@@ -1,4 +1,4 @@
-# ![](BFO.ico)BFO
+# ![](BFO.ico) BFO
 Bilibili实时粉丝数监视器
 
 ### 介绍
@@ -20,5 +20,5 @@ Bilibili实时粉丝数监视器
 ![这是一张使用说明的示例图片](screenshots/example.png)
 
 ### 应用场景
-[2019 B站一哥争夺战](https://www.bilibili.com/video/BV114411i7wS "敖犬战蕾蝗")
+[2019 B站一哥争夺战](https://www.bilibili.com/video/BV114411i7wS "敖犬战蕾蝗")  
 [2018 类似的 YouTube一哥争夺战](https://en.wikipedia.org/wiki/PewDiePie_vs_T-Series "PewDiePie与T-Series之争")
